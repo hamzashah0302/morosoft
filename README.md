@@ -1,4 +1,4 @@
 # morosoft
-Crud operation
-morosoft folder include client and server folder, 
-both client abd server should be run on "npm start"
+Crud operation </br>
+=> morosoft folder include client and server folder</br>
+=> both client abd server should be run on <b>npm start</b>
